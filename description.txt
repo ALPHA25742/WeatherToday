@@ -1,0 +1,54 @@
+CHOME EXTENSION OR ADD-ONS
+what's a CE
+ piece of code that changes your browser experience.
+
+why do v need one
+to add a simple action to your browser experience.
+simple and effective way to modify your browser
+
+where can we find one :)
+
+custom-built extension?
+types of CEs?
+
+working:
+work by using either page actions or browser actions.
+A page action is an action that is specific to certain pages.
+A browser action is relevant no matter where you are in the browser.
+final deliverable will be a zipped .crx package that users will download and install.
+
+-zipped.crx package will be downloaded and installed by users
+
+DIFF b/w web page and a chrome extension
+-manifest file: gives them a specific function to execute.
+
+
+Manifest?(in windows)
+An XML file that contains settings that informs Windows how to handle a program when it is started. 
+
+
+
+let's plan:
+translucent or opaque or both (later update)?
+dynamic illustrations
+custom cursor interactions
+sans serif? bolder fonts
+
+main-page
+location-currenttemp-weatherbrief(onewordcomment)
+percipitationchancesin%
+upcominghrsforecast-next7daysforecast
+windspeed-direction
+humidity
+(optional)
+pastweather
+ephemeris:sunrise,sunset
+airquality
+map
+
+settings-page
+units of measurement
+fortemp-c/f
+forwindspeed-mi/km
+timeformat-12/24(optional)
+updateinterval(optional)

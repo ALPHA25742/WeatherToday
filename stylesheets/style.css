@@ -1,0 +1,55 @@
+body{
+    height : 500px;
+    width : 500px;
+    background-color: rgba(0, 0, 0, 0.801);
+   }
+.content{
+    display: none;
+}
+.form{
+    padding-left:25%;
+    padding-top: 10px;
+}
+.currentWeather{
+    background-color: goldenrod;
+    box-sizing: border-box;
+    margin: 2px;
+    padding: 8px;
+    width: 235px;
+    height: 232px;
+    border-radius: 12px;
+    text-align: center;
+    display: inline;
+    font-size: 1.2rem;
+}
+.hr1,.hr2,.hr3,.hr4,.hr5,.hr6{
+    width: 235px;
+    height: 110px;
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 12px;
+    text-align: center;
+    display: inline;
+    font-size: 1.2rem;
+}
+.currentWeather,.hr3{
+    margin: 12px 0 0 10px;
+    float: left;
+}
+.hr1,.hr2,.hr4{
+    margin: 12px 10px 0 10px;
+    float: right;
+}
+.hr5{
+    margin: 12px 0 12px 10px;
+    float: left;
+}
+.hr6{
+    margin: 12px 10px 12px 10px;
+    float: right;
+}
+.highCW,.lowCW,.temp1,.temp2,.temp3,.temp4,.temp5,.temp6{
+    font-size: 1.4rem;
+}
